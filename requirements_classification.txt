@@ -1,0 +1,4 @@
+openai
+finnhub-python
+pandas
+openpyxl
